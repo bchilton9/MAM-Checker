@@ -31,8 +31,8 @@ INDEXER_IDS = [52]
 OUTPUT_CSV = "mam_missing_report.csv"
 CACHE_FILE = "prowlarr_search_cache.json"
 
-FOUND_MATCH = 82
-PARTIAL_MATCH = 60
+FOUND_MATCH = 70
+PARTIAL_MATCH = 40
 
 SKIP_FOUND_FROM_CSV = True
 
